@@ -25,4 +25,6 @@ available (0-1 KP).
 ### Explanation
 For example suppose we have a knapsack that has a capacity of 20 cubic inches and N=10 
 items of different sizes and different benefits. We want to include in the knapsack only these 
-items that will have the greatest total benefit within the constraint of the knapsack’s capacity. 
+items that will have the greatest total benefit within the constraint of the knapsack’s capacity. As seen in the table below: 
+
+![Item available for knapsack problem](https://github.com/MiniNinja2131/Hill-Climber/blob/master/itemBagTable.PNG)
